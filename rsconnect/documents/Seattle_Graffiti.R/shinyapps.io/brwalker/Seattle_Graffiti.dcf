@@ -1,0 +1,12 @@
+name: Seattle_Graffiti
+title: Seattle_Graffiti
+username:
+account: brwalker
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 444326
+bundleId: 1586607
+url: https://brwalker.shinyapps.io/Seattle_Graffiti/
+when: 1536967184.85464
+asMultiple: FALSE
+asStatic: FALSE
